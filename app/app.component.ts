@@ -19,6 +19,7 @@ const HEROES: Hero[] = [
 ];
 
 @Component({
+  // TODO: move everything to its own file
     styles: [`
   .selected {
     background-color: #CFD8DC !important;
